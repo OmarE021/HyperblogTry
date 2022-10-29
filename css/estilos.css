@@ -45,3 +45,10 @@ body {
     background: white;
     padding: 1em;
 }
+
+#footer {
+    background-color: gray;
+    height: 2.5em;
+    font-size: 20px;
+    text-align: center;
+}
